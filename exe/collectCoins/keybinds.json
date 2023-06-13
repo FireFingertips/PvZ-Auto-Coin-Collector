@@ -21,6 +21,6 @@
   },
   "exit_script": {
     "key": "shift+!",
-    "description": "for resuming the script"
+    "description": "for exiting the script"
   }
 }
