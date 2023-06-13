@@ -1,0 +1,26 @@
+{
+  "first_corner": {
+    "key": "1",
+    "description": "for selecting first corner"
+  },
+  "second_corner": {
+    "key": "2",
+    "description": "for selecting second corner"
+  },
+  "get_cursor": {
+    "key": "3",
+    "description": "for getting the cursor type"
+  },
+  "pause_script": {
+    "key": "ctrl+[",
+    "description": "for pausing the script"
+  },
+  "resume_script": {
+    "key": "ctrl+]",
+    "description": "for resuming the script"
+  },
+  "exit_script": {
+    "key": "shift+!",
+    "description": "for resuming the script"
+  }
+}
